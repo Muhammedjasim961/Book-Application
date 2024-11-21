@@ -36,7 +36,7 @@ A full-stack web application built with **React.js**, **Node.js**, **Express.js*
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Muhammedjasim961/BookStoreApp-
+git clone  https://github.com/Muhammedjasim961/Book-Application
 cd bookstore-app
 ```
 
