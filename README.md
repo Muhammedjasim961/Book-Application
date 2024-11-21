@@ -12,18 +12,18 @@ A full-stack web application built with **React.js**, **Node.js**, **Express.js*
 - **Backend API:** Powered by Node.js and Express.js for fast and scalable server operations.
 - **Database Management:** MongoDB for storing book data efficiently.
 
+---
+
+## 📂 Project Structure
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Other Tools:** Axios, Mongoose, React Router
-
----
-
-## 📂 Project Structure
-
----
 
 ## ⚙️ Installation
 
@@ -42,17 +42,12 @@ cd bookstore-app
 
 1.  Setup Backend
 
-        cd server
+        cd backend
         npm install
+        npm run dev
 
-2.  Start the server:
+2.  Setup Frontend
 
-        Copy code
-        npm start
-
-## Setup Frontend
-
-    Copy code
-    cd ../frontend
-    npm install
-    npm run dev
+        cd frontend
+        npm install
+        npm run dev
